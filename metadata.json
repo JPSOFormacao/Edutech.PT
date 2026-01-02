@@ -1,0 +1,7 @@
+{
+  "name": "EduTech PT - LMS",
+  "description": "Plataforma de Gestão de Aprendizagem para formações em Novas Tecnologias, com gestão de cursos, alunos e integração de IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
